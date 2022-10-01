@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ports.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ports.SchDoc|FileName=Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ports.SchDoc|FileName=Sensors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ports.SchDoc|FileName=stlinkv2.1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ports.SchDoc|FileName=STM32H7-Board.SchDoc|SheetNumber= 

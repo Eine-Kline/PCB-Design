@@ -1,0 +1,45 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM32H743II_V1_18_12.PrjPCB|ReportField=ProjectFullPath~C:\Users\77907\OneDrive - std.uestc.edu.cn\H7\STM32H743II_V1_18_12_2\STM32H743II_V1_18_12\STM32H743II_V1_18_12.PrjPCB|ReportField=Title~Bill of Materials For Project [STM32H743II_V1_18_12.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~14:15:11|ReportField=ReportDate~2018/12/18|ReportField=ReportDateTime~2018/12/18 14:15:11|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~128|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/12/18|ReportField=CurrentTime~14:14:58|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\77907\OneDrive - std.uestc.edu.cn\H7\STM32H743II_V1_18_12_2\STM32H743II_V1_18_12\CONNECTOR.SchDoc|ReportField=DocumentName~CONNECTOR.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/12/16|ReportField=Organization~|ReportField=ProjectName~STM32H743II_V1_18_12.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~STM32H743II_V1_18_12.PrjPCB|ReportField=DataSourceFullPath~C:\Users\77907\OneDrive - std.uestc.edu.cn\H7\STM32H743II_V1_18_12_2\STM32H743II_V1_18_12\STM32H743II_V1_18_12.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|100nF (104) 10% 50V|贴片电容|C1, C2, C3, C4, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C23, C25, C28, C33, C34, C35, C36, C37, C38, C42, C45, C48|0603_C|0603 100nF (104) 10% 50V|31
+2|20pF (200) 5% 50V|贴片电容|C5, C6, C39, C40|0603_C|0603 20pF (200) 5% 50V|4
+3|2.2uF (225) 10% 16V|贴片电容|C22, C26, C27|0603_C|0603 2.2uF (225) 10% 16V|3
+4|10uF (106) 10% 10V|贴片电容|C24|0603_C|0603 10uF (106) 10% 10V|1
+5|12pF (120) 5% 50V|贴片电容|C29, C30, C31, C32|0603_C|0603 12pF (120) 5% 50V|4
+6|100uF (107) ±10% 6.3V|钽电容|C41, C43, C44, C46, C47, C49, C50|CASE-B_3528|3528 100uF (107) 10% 6.3V|7
+7|3.5*1.3|低压电源接口|CON1|DC-005|P-DC|1
+8|1N4148WS T4|二极管|D1, D6|SOD-323|SOD-323 1N4148WS T4|2
+9|SS34|肖特基二极管|D2, D5|SMC|SS34|2
+10|绿灯 0603|发光二极管|D3|0603_LED_S1|0603 绿灯|1
+11|红灯 0603|发光二极管|D4, D7, D8, D9, D10, D11, D12|0603_LED_S1|0603 红灯|7
+12|Header 3|Header, 3-Pin|DEBUG_JTAG1, DEBUG_STLINK1, DEBUG_STM1|HDR1X3|Header 3|3
+13|HDR-1X2|2P接插件|ENABLE_CH340G, ENABLE_STLINK|HDR2.54-LI-2P|Header 2|2
+14|MF-PSFM050X-2 0.5A 6V|贴片保险丝|F1, F2|FU 0805|FU|2
+15|600Ω ±25% 100MHz|贴片磁珠|FB1, FB2|0805_L|0805 600Ω 25% 100MHz|2
+16|CH340G|串口转USB|IC1|SOP16_L|CH340G|1
+17|Header3X2|3*2P接插件|JP1, USB_POWER_SELECT|HDR2.54-LI-2x3P|Header 3X2|2
+18|HDR-1X5|5P接插件|JP2, JP3, JP_GND1, JP_GND2|HDR2.54-LI-5P|Header 5|4
+19|HDR-1X20|20P接插件|JP4, JP6, JP7, JP8, JP9|HDR2.54-LI-20P|Header 20|5
+20|HDR-1X4|4P接插件|JP5|HDR2.54-LI-4P|Header 4|1
+21|Header 2X10|10*2P接插件|JP10|IDC2.54-LI-2x10P|Header 10X2|1
+22|Header 6X2|6*2P接插件|JP11|HDR2.54-LI-2x6P|Header  6X2|1
+23|Header2X2|2*2P接插件|JP12|HDR2.54-LI-2x2P|Header 2X2|1
+24|TFT_LCD4.7||LCD1|DB2*17-3.5|TFT_LCD4.7|1
+25||贴片电阻|NC|0603_R|0603 0Ω (0R0) 1%|1
+26|4.7KΩ (4701) ±1%|贴片电阻|R1, R2|0603_R|0603 4.7KΩ (4701) 1%|2
+27|1.5KΩ (1501) ±1%|贴片电阻|R3|0603_R|0603 1.5KΩ (1501) 1%|1
+28|1KΩ (1001) ±1%|贴片电阻|R4, R5, R12, R13, R14|0603_R|0603 1KΩ (1001) 1%|5
+29|100Ω (1000) ±1%|贴片电阻|R6|0603_R|0603 100Ω (1000) 1%|1
+30|10KΩ (1002) ±1%|贴片电阻|R7, R8, R9, R10, R11|0603_R|0603 10KΩ (1002) 1%|5
+31|3.3KΩ (3301) ±1%|贴片电阻|R15, R16, R17|0603_R|0603 3.3KΩ (3301) 1%|3
+32|10KΩ (103) ±5%|贴片排阻|Rp1|0603_Rx4|0603*4  10KΩ (103) 5%|1
+33|EC11|数字开关编码器|SW1|EC11-B|EC11|1
+34|KET 8X8|8*8自锁开关|SW2|KFT DIP-8X8|KET 8X8|1
+35|6x6x5|直插6x6轻触开关|SW3, SW4, SW5, SW6, SW7|TSW DIP-6*6*6|TSW DIP-6x6|5
+36|STM32H7x3IIT|Imported|U1|LQFP176_24x24mm|STM32H7x3IIT|1
+37|STM32F103C8T6|ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tray|U2|STM-LQFP48_L|CMP-0237-00215-3|1
+38|USB-5P|微型USB母座|USB1, USB2, USB_OTP|USB-MICRO_D|USB-5P|3
+39|AMS1117-3.3|低压差线性稳压(LDO)|VR1, VR2, VR4|SOT-223|SOT-223 AMS1117-3.3|3
+40|AMS1117-5.0|低压差线性稳压(LDO)|VR3|SOT-223|SOT-223 AMS1117-5.0|1
+41|25M_12P|4脚无源晶振|X1|OSC 3225-4P|XTAL-4P|1
+42|32.768kHz_12.5P|2脚无源脚晶振|X2|OSC 3215-2P|XTAL-2P|1
+43|12M_20P|4脚无源晶振|X3|OSC 3225-4P|XTAL-4P|1
+44|8MHz ±20ppm 20pF|贴片晶振|Y1|SMD-5032_2P|SMD-5032_2P 8MHz 20ppm 20pF|1

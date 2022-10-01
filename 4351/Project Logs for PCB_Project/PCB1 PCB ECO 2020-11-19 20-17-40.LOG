@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC17_2 Pin=P3-1
+Removed Pin From Net: NetName=NetC19_2 Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Member From Class: ClassName=ADF4351原理图(改) Member=P4
+Added Component: Designator=P2(SMA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC17_2 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetC19_2 Pin=P3-1
+Added Member To Class: ClassName=ADF4351原理图(改) Member=Component P2 SMA

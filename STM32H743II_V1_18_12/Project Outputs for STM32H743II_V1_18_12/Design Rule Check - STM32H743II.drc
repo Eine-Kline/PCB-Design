@@ -1,0 +1,60 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\77907\OneDrive - std.uestc.edu.cn\H7\STM32H743II_V1_18_12_2\STM32H743II_V1_18_12\STM32H743II.PcbDoc
+Date     : 2018/12/18
+Time     : 14:13:26
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=50.8mm) (Preferred=0.152mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad CON1-1(80.478mm,85.113mm) on Multi-Layer Actual Slot Hole Width = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad CON1-2(80.478mm,91.313mm) on Multi-Layer Actual Slot Hole Width = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-1(128.48mm,76.454mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-1(128.988mm,3.302mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad LCD1-0(17.74mm,21.979mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad LCD1-0(17.74mm,76.454mm) on Multi-Layer Actual Hole Size = 3mm
+Rule Violations :6
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room CONNECTOR (Bounding Region = (20.447mm, 338.157mm, 225.171mm, 389.719mm) (Disabled)(InComponentClass('CONNECTOR'))
+Rule Violations :0
+
+Processing Rule : Room CORE (Bounding Region = (0mm, 146.238mm, 36.815mm, 158.115mm) (Disabled)(InComponentClass('CORE'))
+Rule Violations :0
+
+Processing Rule : Room DEVICE (Bounding Region = (281.403mm, 308.574mm, 445.995mm, 328.513mm) (Disabled)(InComponentClass('DEVICE'))
+Rule Violations :0
+
+Processing Rule : Room ST-LINK (Bounding Region = (5.588mm, 215.138mm, 26.797mm, 220.726mm) (Disabled)(InComponentClass('ST-LINK'))
+Rule Violations :0
+
+Processing Rule : Room POWER (Bounding Region = (42.531mm, 200.08mm, 193.661mm, 217.987mm) (Disabled)(InComponentClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:01

@@ -1,0 +1,63 @@
+[0329/192352:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0329/192352:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0329/192352:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {AE0AECD1-0480-4FB3-9524-718A2D3AA22C}\BrowserCache to C:\ProgramData\Altium\Altium Designer {AE0AECD1-0480-4FB3-9524-718A2D3AA22C}\old_BrowserCache_000
+[0329/192352:ERROR:cache_creator.cc(129)] Unable to create cache
+[0329/192356:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0329/192356:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0329/192356:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
+[0329/195422:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/211414:ERROR:tcp_socket_win.cc(335)] bind() returned an error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 (0x2740)
+[0329/211414:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0329/211420:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0329/211420:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0329/211420:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {AE0AECD1-0480-4FB3-9524-718A2D3AA22C}\BrowserCache to C:\ProgramData\Altium\Altium Designer {AE0AECD1-0480-4FB3-9524-718A2D3AA22C}\old_BrowserCache_000
+[0329/211420:ERROR:cache_creator.cc(129)] Unable to create cache
+[0329/211423:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0329/211423:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0329/211423:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
+[0329/220128:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220133:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220138:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220143:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220148:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220153:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220158:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220203:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220208:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220213:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220218:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220223:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220228:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220233:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220238:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220243:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220248:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220253:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220258:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220303:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220308:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220313:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220318:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220323:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220328:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220333:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220338:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220343:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220348:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220353:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220358:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220403:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220408:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220413:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220418:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220423:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220428:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220433:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220438:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220443:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220448:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220453:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220458:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0329/220503:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

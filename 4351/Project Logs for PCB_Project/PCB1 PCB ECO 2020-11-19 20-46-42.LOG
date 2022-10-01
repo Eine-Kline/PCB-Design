@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3.3 Pin=R6-2
+Removed Pin From Net: NetName=NetC17_1 Pin=R7-1
+Removed Pin From Net: NetName=in Pin=R8-1
+Removed Pin From Net: NetName=NetC19_1 Pin=R9-1
+Removed Member From Class: ClassName=ADF4351原理图(改) Member=R6
+Removed Member From Class: ClassName=ADF4351原理图(改) Member=R7
+Removed Member From Class: ClassName=ADF4351原理图(改) Member=R8
+Removed Member From Class: ClassName=ADF4351原理图(改) Member=R9
+Added Pin To Net: NetName=in Pin=C16-1
+Added Pin To Net: NetName=NetC19_1 Pin=IC2-12
+Added Pin To Net: NetName=NetC17_1 Pin=IC2-13
+Added Pin To Net: NetName=+3.3 Pin=L1-1
+Added Pin To Net: NetName=NetC15_2 Pin=P1-1
